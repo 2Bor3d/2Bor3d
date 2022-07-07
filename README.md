@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2Bor3d
-- 👀 I’m interested in Game and Web -devepopment
+- 👀 I’m interested in Gamedevepopment and cybersecurety.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me david.glaenzel@gmail.com
