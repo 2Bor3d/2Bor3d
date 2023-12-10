@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gamedevepopment and cybersecurety.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Games
-- 📫 How to reach me david.glaenzel@gmail.com
+- 📫 How to reach me "2bored." on discord 
 
 <!---
 2Bor3d/2Bor3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
