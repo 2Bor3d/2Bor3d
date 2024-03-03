@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2Bor3d
-- 👀 I’m interested in Gamedevepopment and cybersecurety.
+- 👀 I’m interested in Gamedevepopment and Cybersecurety.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me "2bored." on discord 
